@@ -1,0 +1,9 @@
+# Pinned: the saved model (models/best_model.joblib) must load with the same scikit-learn it was trained with.
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+joblib==1.6.0
+streamlit==1.64.0
+altair==6.3.0
